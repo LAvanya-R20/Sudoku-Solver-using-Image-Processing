@@ -1,1 +1,2 @@
 # Sudoku-Solver-using-Image-Processing
+The Sudoku Solver project utilizes image processing techniques to automatically solve Sudoku puzzles. By employing OpenCV for image detection and manipulation, it extracts the puzzle grid from images, recognizes the digits using deep learning models, and applies a backtracking algorithm to find the solution, all while displaying the results on the original image.
